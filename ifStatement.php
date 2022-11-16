@@ -31,7 +31,7 @@ if (21 >= $age)
 else 
 {
    
- echo "<h4 class = 'text-danger' > you do not meet the age requirement </h4>";
+ echo "<h4> you do not meet the age requirement </h4>";
 
 }
 $age = '';
