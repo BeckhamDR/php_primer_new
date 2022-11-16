@@ -19,7 +19,7 @@ do {
     echo "</br>";
     echo "</br>";
     echo "</br>";
-    echo "<p class = 'text-danger' > You have met the age requirement !</p>";
+    echo "<p> You have met the age requirement !</p>";
 
 } while ($age > 20);
 
